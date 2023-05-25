@@ -55,6 +55,8 @@ SIMULATION
 ![image](https://github.com/SUJITH04/Forward-kinematics-using-robot-analyzer/assets/130206202/0f958052-9329-4c3c-b30e-3bde6c900fad)
 
 PLOT
+
+
 6 DOF
 
 ![image](https://github.com/SUJITH04/Forward-kinematics-using-robot-analyzer/assets/130206202/6ddf084c-f78b-42ca-b303-f1cbaedafb6f)
