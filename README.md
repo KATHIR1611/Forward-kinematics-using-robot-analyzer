@@ -1,15 +1,15 @@
-Forward-kinematics-using-robo-analyzer
+# EXPERIMENT:2 Forward kinematics using robo analyzer
 
 
-AIM:
+## Aim:
 
 To analyze the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles.
 
-COMPONENTS REQUIRED:
+## Components Required:
 
 1.Robo analyzer software
 
-THEORY:
+## Theory:
 
 Forward Kinematics
 
@@ -17,15 +17,11 @@ A manipulator is composed of serial links which are affixed to each other revolu
 
 Denavit Hartenberg Parameters With DH Parameters, solving for the Forward Kinematics is easy. only need to take four parameters for each joint i: θifor the joint angle, αi for the link twist, difor the link offset, and ai for the link length. Once I’ve obtained them, I can just plug them in to this transformation matrix:
 
-
-
 ![image](https://github.com/SUJITH04/Forward-kinematics-using-robot-analyzer/assets/130206202/a8c351ce-e771-4fbf-8655-a79c9bfc1d7b)
-
-
 
 ![image](https://github.com/SUJITH04/Forward-kinematics-using-robot-analyzer/assets/130206202/55e324cf-619a-402a-bc97-b35f64e666d9)
 
-PROCEDURE:
+## Procedure:
 ```
     1.open the roboanalyzer software.
     2.select the robot and its degrees of freedom.
@@ -75,7 +71,7 @@ EE CONFIGURATION:
 
 ![image](https://github.com/SUJITH04/Forward-kinematics-using-robot-analyzer/assets/130206202/b4ac8d8d-db33-45ef-bcfd-f77dd03e5bf9)
 
-RESULTS :
+## Result :
 
 Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
 
